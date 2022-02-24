@@ -1,0 +1,122 @@
+
+
+.body{
+    background-image: url(../images/fondo.jpg);
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-repeat: repeat-y;
+}
+
+.ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 10px;
+    color: white;
+}
+
+a{
+    text-decoration: white;
+    font-style: none;
+    color: white;
+    margin-right: 15px;
+    text-decoration: underline white;
+}
+
+li{
+    text-decoration: none;
+    display: inline;
+}
+
+
+.header ul li a:hover{
+    background-color: white;
+    color: black;
+}
+
+img{
+    width: 180px;
+    height: 180px;
+    display: inline;
+}
+
+iframe{
+    width: 400px;
+    height: 200px;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+.footer{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 180px;
+    text-align: center;
+    font-size: 10px;
+    background-color: black;
+    opacity: 80%;
+    line-height: 2px;
+} 
+ 
+ .main{
+     text-align: center;
+     margin-top: 100px;
+ }
+
+ .header{
+    margin-top: 18px;
+    background-color: black;
+    opacity: 80%;
+ }
+
+.icon1{
+     height: 20px;
+     width: 20px;
+}
+
+.icon2{
+    height: 20px;
+    width: 20px;
+}
+
+h1{
+    font-size: 50px;
+    margin-bottom: 80px;
+}
+
+form{
+    background-color: rgb(207, 182, 122);
+    margin-left: 260px;
+    margin-right: 260px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}    
+
+.imagenes{
+    margin: 20px 20px 20px 20px;
+}
+
+.videos{
+    margin-top: 40px;
+}
+
+h2{
+    background-color: rgb(92, 72, 24);
+    margin-bottom: 100px;
+}
+
+.catalogo{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+a{
+    padding: 2px;
+}
